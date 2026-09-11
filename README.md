@@ -19,9 +19,9 @@ At first, “Less Crowded” felt quite specific to me. I could tell AI:
 
 > Build a navigation feature that avoids crowded areas.
 
-But what does “crowded” mean?
+But once I thought about how this would actually work, a simple question appeared: what does “crowded” mean?
 
-Imagine one route takes ten minutes but passes through a packed station. Another takes eighteen minutes but is mostly outdoors. Which one should the system choose? What if I am willing to walk five extra minutes for a calmer route, but another user is not? If the crowd changes while I am already walking, should the app change my route again?
+Imagine one route takes ten minutes but passes through a packed station. Another takes eighteen minutes but is mostly outdoors. Which one should the system choose?
 
 I realised that I had not really designed “Less Crowded” yet. **I had designed the idea of it.**
 
