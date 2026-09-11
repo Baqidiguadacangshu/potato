@@ -5,9 +5,9 @@
 
 At first, the answer seemed easy: programming is useful, so it is worth learning. But that felt strange when I considered how I actually work.
 
-As an interaction design student, I can already describe an idea to AI and get working code back in seconds. I am not learning programming to become faster at writing code than AI.
+As an interaction design student, I can already describe an idea to AI and get working code back in seconds. If I want a button, an animation, or a simple interaction, AI can often give me a starting point before I fully understand how the code works.
 
-**I want to understand what I am actually asking the machine to do, and I want to know when its answer is not really my answer.**
+This made me question what I am actually trying to learn. I am not learning programming to become faster at writing code than AI. I want to understand what I am actually asking the machine to do, and I want to know when its answer is not really my answer.
 
 ## I Thought “Less Crowded” Was Already a Design Decision
 
