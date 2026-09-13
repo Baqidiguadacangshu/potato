@@ -31,32 +31,31 @@ A computer eventually needs actual rules. What information counts as crowding? H
 
 ## Working Is Not the Same as Being Right
 
-AI-generated code can work and still be wrong for my design.
+AI-generated code can work and still make design decisions I did not intend.
 
-Imagine AI builds the **Less Crowded** feature. The map appears, the button works and a new route is generated. It would be easy to think: done.
+Imagine AI builds the Less Crowded feature. The map appears, the button works, and a new route is generated. It would be easy to think: done.
 
 But why did it choose that route?
 
 Maybe it is using real crowd information. Maybe it is using a shortcut I did not ask for. Maybe it works in the example I tested but fails when some data is missing.
 
-It could also create an interaction that works with a mouse while forgetting about people who interact differently.
+So I cannot judge the result only by asking, “Does it run?” I also need to ask what it assumes, what controls it, and what happens when something unexpected occurs.
 
-So I cannot judge code only by asking, “Does it run?” I also need to ask what it assumes, what controls it, and what happens when something unexpected occurs.
-
-Without understanding the code, I risk accepting a result just because it looks convincing.
+Without understanding the code, I risk accepting a result simply because it looks convincing.
 
 ## Do I Have to Write Every Line for It to Be Mine?
 
-I do not need to type every line for a project to be mine. But asking AI for ten versions and choosing my favourite is not enough.
+This leads to another question: if AI writes some of the code and I am mainly reading, questioning and changing it, is the result still my work?
 
-For me, there is a difference between **choosing a result and understanding why that result happened**.
+I do not think I need to type every line for a project to be mine. But asking AI for ten versions and choosing my favourite is not enough either.
+
+For me, there is a difference between choosing a result and understanding why that result happened.
 
 If CrowdEscape keeps giving people very long routes because of the way “crowded” is calculated, I want to be able to find that decision and change it. I do not want my only option to be:
 
-> Try again.
+Try again.
 
-I may not have written every line, but if I can understand a rule, question it, change it and take responsibility for the result, I am still making decisions inside the work.
-
+I may not have written every line, but if I can understand a rule, question it, change it, and take responsibility for the result, I am still making decisions inside the work.
 ## Code Is Part of the Material
 
 Dylan Beattie’s talk *[The Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U)* (NDC Conferences, 2020) made me think about programming as something expressive, not only technical.
